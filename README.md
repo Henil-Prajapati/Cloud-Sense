@@ -1,4 +1,4 @@
-# WeatherWise
+# Cloud-Sense
 
 WeatherWise is a comprehensive weather app that delivers detailed weather information directly to your device. By granting access to your location, WeatherWise gathers essential data such as wind speed, cloud cover, humidity, temperature, and more. You can also search for weather conditions in specific areas or cities, ensuring you stay informed no matter where you are.
 
@@ -45,4 +45,4 @@ To run WeatherWise, you need a web browser with JavaScript enabled.
 3. **Search for Specific Locations**: Use the search bar to enter the name of a city or area and view the weather details for that location.
 
 
-
+                                                                                                                                                                    # Henil-Prajapati
