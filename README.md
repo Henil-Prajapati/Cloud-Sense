@@ -1,6 +1,6 @@
 # Cloud-Sense
 
-WeatherWise is a comprehensive weather app that delivers detailed weather information directly to your device. By granting access to your location, WeatherWise gathers essential data such as wind speed, cloud cover, humidity, temperature, and more. You can also search for weather conditions in specific areas or cities, ensuring you stay informed no matter where you are.
+CloudSence is a comprehensive weather app that delivers detailed weather information directly to your device. By granting access to your location, CloudSence gathers essential data such as wind speed, cloud cover, humidity, temperature, and more. You can also search for weather conditions in specific areas or cities, ensuring you stay informed no matter where you are.
 
 ## Features
 
@@ -20,25 +20,25 @@ WeatherWise is a comprehensive weather app that delivers detailed weather inform
 
 ### Prerequisites
 
-To run WeatherWise, you need a web browser with JavaScript enabled.
+To run CloudSence, you need a web browser with JavaScript enabled.
 
 ## Installation
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/Vora-Namra/WeatherWise.git
+    git clone https://github.com/Vora-Namra/CloudSence.git
     ```
 
 2. Navigate to the project directory:
     ```sh
-    cd WeatherWise
+    cd CloudSence
     ```
 
 3. Open `index.html` in your web browser.
 
 ## Usage
 
-1. **Grant Location Access**: Upon opening the app, you will be prompted to grant access to your location. This allows WeatherWise to fetch real-time weather data for your current location.
+1. **Grant Location Access**: Upon opening the app, you will be prompted to grant access to your location. This allows CloudSence to fetch real-time weather data for your current location.
 
 2. **View Weather Details**: Once location access is granted, you will see detailed weather information, including wind speed, cloud cover, humidity, and more.
 
